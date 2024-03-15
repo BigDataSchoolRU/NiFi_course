@@ -1,4 +1,6 @@
 flows:
+  18bd9adb-248e-4f7d-ad94-b874c314271f: {ver: 1, file: Flow_ETL.snapshot, comments: '',
+    author: anonymous, created: 1710523077172, flowName: Flow_ETL, flowDesc: ''}
   79a74427-a875-48d7-84ad-69c3a39c6838:
     ver: 3
     file: CDC.snapshot
