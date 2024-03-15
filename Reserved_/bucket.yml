@@ -7,6 +7,8 @@ flows:
     author: anonymous, created: 1710523239306, flowName: Ping, flowDesc: ''}
   49a96f67-23c1-438c-bb5e-d55ae98c30f7: {ver: 1, file: Scripts_Python.snapshot, comments: '',
     author: anonymous, created: 1710523061000, flowName: Scripts_Python, flowDesc: ''}
+  a20ea669-8fe0-413b-b262-4004cc898a21: {ver: 1, file: Minifi_Templ.snapshot, comments: '',
+    author: anonymous, created: 1710523267166, flowName: Minifi_Templ, flowDesc: ''}
   f4d5342a-c3e3-4c12-9857-c4c939d1f8f9: {ver: 1, file: Groc_Parser_.snapshot, comments: '',
     author: anonymous, created: 1710523148796, flowName: 'Groc_Parser ', flowDesc: ''}
   f53bc97a-945f-4fa0-acf1-5392091d73a8: {ver: 1, file: With_SQL_.snapshot, comments: '',
