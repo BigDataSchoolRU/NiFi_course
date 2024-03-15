@@ -11,6 +11,8 @@ flows:
     author: anonymous, created: 1710523267166, flowName: Minifi_Templ, flowDesc: ''}
   f4d5342a-c3e3-4c12-9857-c4c939d1f8f9: {ver: 1, file: Groc_Parser_.snapshot, comments: '',
     author: anonymous, created: 1710523148796, flowName: 'Groc_Parser ', flowDesc: ''}
+  8df57bd4-3bf5-49b9-91ed-7ed7b27ac655: {ver: 1, file: Kafka_Integ.snapshot, comments: '',
+    author: anonymous, created: 1710523300764, flowName: Kafka_Integ, flowDesc: ''}
   f53bc97a-945f-4fa0-acf1-5392091d73a8: {ver: 1, file: With_SQL_.snapshot, comments: '',
     author: anonymous, created: 1710523099185, flowName: 'With_SQL ', flowDesc: ''}
 layoutVer: 1
