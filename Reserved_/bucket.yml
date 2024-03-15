@@ -1,4 +1,6 @@
 flows:
+  fde47dc2-293e-4191-801f-7cf9b5dfc012: {ver: 1, file: Script_CSV.snapshot, comments: '',
+    author: anonymous, created: 1710523222543, flowName: Script_CSV, flowDesc: ''}
   6073a8e4-a3e5-4328-92bf-978c260b826f: {ver: 1, file: Weather_BOT.snapshot, comments: '',
     author: anonymous, created: 1710523116299, flowName: Weather_BOT, flowDesc: ''}
   49a96f67-23c1-438c-bb5e-d55ae98c30f7: {ver: 1, file: Scripts_Python.snapshot, comments: '',
