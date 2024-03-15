@@ -3,6 +3,8 @@ flows:
     author: anonymous, created: 1710523222543, flowName: Script_CSV, flowDesc: ''}
   6073a8e4-a3e5-4328-92bf-978c260b826f: {ver: 1, file: Weather_BOT.snapshot, comments: '',
     author: anonymous, created: 1710523116299, flowName: Weather_BOT, flowDesc: ''}
+  9e9dc79d-093e-4728-b9b4-e9aad34b6df3: {ver: 1, file: Ping.snapshot, comments: '',
+    author: anonymous, created: 1710523239306, flowName: Ping, flowDesc: ''}
   49a96f67-23c1-438c-bb5e-d55ae98c30f7: {ver: 1, file: Scripts_Python.snapshot, comments: '',
     author: anonymous, created: 1710523061000, flowName: Scripts_Python, flowDesc: ''}
   f4d5342a-c3e3-4c12-9857-c4c939d1f8f9: {ver: 1, file: Groc_Parser_.snapshot, comments: '',
